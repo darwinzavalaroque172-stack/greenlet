@@ -1,4 +1,6 @@
-Source code archives and binary distributions are available on the
+python package index at https://pypi.org/project/greenlet
+
+The source code repository is hosted on github:Source code archives and binary distributions are available on the
 python package index at https://pypi.org/project/greenlet.. This file is included into docs/history.rst
 
 
