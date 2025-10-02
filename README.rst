@@ -59,4 +59,5 @@ The source code repository is hosted on github:
 https://github.com/python-greenlet/greenlet
 
 Documentation is available on readthedocs.org:
-https://greenlet.readthedocs.io
+https://greenlet.readthedocs.ioSource code archives and binary distributions are available on the
+python package index at https://pypi.org/project/greenlet
