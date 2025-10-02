@@ -1,4 +1,5 @@
-.. This file is included into docs/history.rst
+Source code archives and binary distributions are available on the
+python package index at https://pypi.org/project/greenlet.. This file is included into docs/history.rst
 
 
 Greenlets are lightweight coroutines for in-process concurrent
