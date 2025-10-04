@@ -30,7 +30,7 @@ interpreter.
 .. _`Stackless`: http://www.stackless.com
 
 
-Who is using Greenlet?
+Who is using Greenl
 ======================
 
 There are several libraries that use Greenlet as a more flexible
